@@ -1,0 +1,12 @@
+title: Sw1ssFr13nds
+email: no@email.com
+description: >
+  Sw1ssFr13nds Description.
+baseurl: ""
+url: "https://sw1ssfr13nds.github.io"
+paginate: 5
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems: [jekyll-paginate]
