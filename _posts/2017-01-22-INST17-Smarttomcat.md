@@ -8,12 +8,12 @@ title: INST17 - smarttomcat - Web - 50 pts
 >Normal, regular cats are so 2000 and late, I decided to buy this allegedly smart tomcat robot
 Now the damn thing has attacked me and flew away. I can't even seem to track it down on the broken search interface... Can you help me ?
 
-![website](public/INST17_website.png "website")
+![website](/public/INST17_website.png "website")
 
 We can submit coordinates to find the cat.
 If we check the source code we can see that a **POST** is done to **index.php** with **localhost:8080** and a **jsp** file as **u-parameter**.
 
-![source](public/INST17_source.png "source")
+![source](/public/INST17_source.png "source")
 
 
 Together with the task title we assume it's a **tomcat**.
